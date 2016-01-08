@@ -8,3 +8,4 @@
 echo "hello";
 
 echo "my";
+echo "hi";
